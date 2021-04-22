@@ -1,2 +1,2 @@
 # Sokoban
-my version of the famous videogame Sokoban, programmed in C.
+My version of the famous videogame Sokoban, programmed in C.
